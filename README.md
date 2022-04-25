@@ -14,3 +14,6 @@
 |speechA|会話
 |speechB|会話
 |image|グレースケールの画像のブレンド
+
+## Note
+This is a final project of the course "Programming Exercise" 2021 Summer at U-Tokyo.
